@@ -35,7 +35,7 @@ void main()
     {
             x1 = fx(y,z);
             y1 = fy(x,z);
-            z1 = fz(y,z);
+            z1 = fz(x,y);
             x = x1;
             y = y1;
             z = z1;
